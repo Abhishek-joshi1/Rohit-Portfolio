@@ -2,7 +2,7 @@
   "name": "Rohit-Portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Abhishek-joshi1.github.io/Rohit-Portfolio",
+  "homepage": "https://abhishek-joshi1.github.io/Rohit-Portfolio",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@testing-library/jest-dom": "^5.16.4",
